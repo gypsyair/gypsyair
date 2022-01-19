@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gypsyair
-- 👀 I’m interested in ... MFlutter, Sppech To Text & Localizations
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ... Flutter, Sppech To Text & Localizations
+- 🌱 I’m currently learning ... Flutter/Dart, AWS
 - 💞️ I’m looking to collaborate on ... Mobile Apps to Desktop
 - 📫 How to reach me ... dansiler@symbiotech.net
 
